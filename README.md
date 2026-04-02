@@ -15,7 +15,7 @@ La mappa include un pulsante **Embed** nei credits. Una volta pubblicata, genera
 Formato previsto:
 
 ```html
-<iframe src="https://antoniomassariolo.github.io/basi-usa-europa/?embed=1" width="100%" height="720" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
+<iframe src="https://antonio-massariolo.github.io/basi-usa-europa/?embed=1" width="100%" height="720" style="border:0;" loading="lazy" allowfullscreen referrerpolicy="strict-origin-when-cross-origin"></iframe>
 ```
 
 ## Nota tecnica
