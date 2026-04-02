@@ -1,0 +1,210 @@
+site,country_it,country_state,nearest_city,branch,component,hectares,prv_musd,lat,lon,coord_source
+Brussels Leases,Belgio,Belgium,Brussels,Army,Army Active,5.2690070619648,125.978118,50.8503,4.3517,nearest_city
+Brussels Sterrebeek Annex Dep School,Belgio,Belgium,Brussels,Army,Army Active,8.486257917772798,102.932853,50.8503,4.3517,nearest_city
+Chievres Air Base,Belgio,Belgium,Chievres Ab,Army,Army Active,480.36185733888,814.790235,50.5756,3.831,nearest_city
+Chievres Chateau Gendebien,Belgio,Belgium,Mons,Army,Army Active,0.0,19.249264,50.4542,3.9523,nearest_city
+Chievres Daumerie Caserne,Belgio,Belgium,Chievres,Army,Army Active,0.0,135.641044,50.5879,3.8071,nearest_city
+Chievres Leases,Belgio,Belgium,Chievres,Army,Army Active,0.0,39.9439,50.5879,3.8071,nearest_city
+KLEINE BROGEL AIR BASE SITE 1,Belgio,Belgium,Kleine-brogel,Air Force,Air Force Active,0.0,19.60346167,51.1686,5.4707,nearest_city
+Mons Leases,Belgio,Belgium,Mons,Army,Army Active,0.0,41.456026,50.4542,3.9523,nearest_city
+Mons SHAPE Headquarters,Belgio,Belgium,Mons,Army,Army Active,0.04532479193088,353.949155,50.4542,3.9523,nearest_city
+Zutendaal Army Depot,Belgio,Belgium,Zutendaal,Army,Army Active,371.50141957631996,534.129563,50.9337,5.575,nearest_city
+GRAF IGNATIEVO AIR BASE,Bulgaria,Bulgaria,Plovdiv,Air Force,Air Force Active,0.40468564224,22.889949190000003,42.1354,24.7453,nearest_city
+Mokren Novo Selo Training Area,Bulgaria,Bulgaria,Unknown,Army,Army Active,0.0,299.033104,42.357,26.87,site_override
+RAF AKROTIRI,Cipro,Cyprus,Limassol,Air Force,Air Force Active,0.0,93.21400503,34.6786,33.0413,nearest_city
+AMARI,Estonia,Estonia,Unknown,Air Force,Air Force Active,0.0,274.33695421,59.2608,24.2085,site_override
+Amberg Freihoelser Tng Area,Germania,Germany,Amberg,Army,Army Active,136.98608989823998,28.108106,49.4403,11.8633,nearest_city
+Ansbach Barton Barracks,Germania,Germany,Ansbach,Army,Army Active,14.5767768334848,250.121359,49.3004,10.5719,nearest_city
+Ansbach Bleidorn Fam Hsg,Germania,Germany,Ansbach,Army,Army Active,13.55696901504,239.077985,49.3004,10.5719,nearest_city
+Ansbach Katterbach-Bismarck Kaserne,Germania,Germany,Ansbach,Army,Army Active,60.998266854835194,1541.353468,49.3004,10.5719,nearest_city
+Ansbach Shipton-Urlas Kaserne,Germania,Germany,Ansbach,Army,Army Active,157.098966317568,444.470484,49.3004,10.5719,nearest_city
+"BANN COMM STA 2, POLYGONE",Germania,Germany,Bann,Air Force,Air Force Active,20.63896775424,15.437911810000001,49.4012,7.6078,nearest_city
+BANN COMM STATION SITE 1,Germania,Germany,Bann,Air Force,Air Force Active,3.3544392885273595,16.47950384,49.4012,7.6078,nearest_city
+Baumholder Airfield,Germania,Germany,Baumholder,Army,Army Active,18.898819492608,15.914723,49.6174,7.3384,nearest_city
+Baumholder Fam Hsg,Germania,Germany,Baumholder,Army,Army Active,0.323748513792,783.858235,49.6174,7.3384,nearest_city
+Baumholder Hospital,Germania,Germany,Baumholder,Army,Army Active,5.948878940927999,147.243536,49.6174,7.3384,nearest_city
+Baumholder QM Area,Germania,Germany,Baumholder,Army,Army Active,34.36185788259839,189.223439,49.6174,7.3384,nearest_city
+Baumholder Smith Barracks,Germania,Germany,Baumholder,Army,Army Active,452.8472805229824,2506.077377,49.6174,7.3384,nearest_city
+Baumholder Wetzel Family Housing,Germania,Germany,Baumholder,Army,Army Active,143.7281526979584,282.782114,49.6174,7.3384,nearest_city
+Baumholder Wetzel Kaserne,Germania,Germany,Baumholder,Army,Army Active,0.0,120.756218,49.6174,7.3384,nearest_city
+Boeblingen Panzer Fam Hsg,Germania,Germany,Boeblingen,Army,Army Active,9.3158634843648,201.2085,48.682,9.0117,nearest_city
+Boeblingen Panzer Kaserne,Germania,Germany,Stuttgart,Army,Army Active,45.8185084144128,759.069816,48.7758,9.1829,nearest_city
+Boeblingen Panzer Officers Club,Germania,Germany,Boeblingen,Army,Army Active,0.6636844532735999,17.002154,48.682,9.0117,nearest_city
+Boeblingen Panzer Range,Germania,Germany,Boeblingen,Army,Army Active,10.72416951936,13.403812,48.682,9.0117,nearest_city
+Boeblingen Panzer Tng Area,Germania,Germany,Boeblingen,Army,Army Active,574.7588302477824,233.5138,48.682,9.0117,nearest_city
+Bremerhaven Port,Germania,Germany,Bremerhaven,Army,Army Active,2.792330931456,13.979032,53.5396,8.5809,nearest_city
+BUECHEL AIR BASE SITE 1,Germania,Germany,Buchel,Air Force,Air Force Active,0.0,23.84582911,50.172,7.0703,nearest_city
+Darmstadt Training Center,Germania,Germany,Darmstadt,Army,Army Active,110.43871176729598,97.929285,49.8728,8.6512,nearest_city
+Duelmen Tower Barracks,Germania,Germany,Dulmen,Army,Army Active,45.1305428226048,369.792587,51.8301,7.279,nearest_city
+Echterdingen Stuttgart Army Airfield,Germania,Germany,Stuttgart,Army,Army Active,7.3936066837248,151.265909,48.7758,9.1829,nearest_city
+Egelsbach Transmitter Fac,Germania,Germany,Langen,Army,Army Active,48.5501364995328,32.971015,50.0094,8.676,nearest_city
+EINSIEDLERHOF MAINTENANCE ANX SITE 1,Germania,Germany,Einsiedlerhof,Air Force,Air Force Active,5.66559899136,68.23277752,49.4436,7.7192,nearest_city
+EINSIEDLERHOF STORAGE ANNEX SITE 1,Germania,Germany,Einsiedlerhof,Air Force,Air Force Active,11.33119798272,214.41573813999997,49.4436,7.7192,nearest_city
+EINSIEDLERKOEPFE TRAINING ANX SITE 1,Germania,Germany,Kaiserlautern,Air Force,Air Force Active,125.85723473664,13.07061852,49.4447,7.7689,nearest_city
+Finthen Local Training Area,Germania,Germany,Mainz,Army,Army Active,78.20145350645758,23.691235,49.9929,8.2473,nearest_city
+Franken-Oberdachstetten Tng Area,Germania,Germany,Illesheim,Army,Army Active,118.85617312588799,176.782005,49.4739,10.388,nearest_city
+Frasdorf Operations Area,Germania,Germany,Garmisch,Army,Army Active,679.46719332096,4.175386,47.4917,11.0955,nearest_city
+Garmisch Artillery Kaserne,Germania,Germany,Garmisch,Army,Army Active,1954.3888406338558,263.496421,47.4917,11.0955,nearest_city
+Garmisch Fam Hsg,Germania,Germany,Garmisch,Army,Army Active,0.0,147.134151,47.4917,11.0955,nearest_city
+Garmisch Hausberg Ski Area,Germania,Germany,Garmisch,Army,Army Active,11.8653830304768,1.192674,47.4917,11.0955,nearest_city
+Garmisch Osterfelderstr Hsg,Germania,Germany,Garmisch,Army,Army Active,23.795515763711997,3.452844,47.4917,11.0955,nearest_city
+Garmisch Sheridan Barracks,Germania,Germany,Garmisch,Army,Army Active,43.786986490368,302.034187,47.4917,11.0955,nearest_city
+GEILENKIRCHEN AIR BASE SITE 1,Germania,Germany,Geilenkirchen,Air Force,Air Force Active,0.0,75.73675541,50.9676,6.121,nearest_city
+Germersheim Army Depot,Germania,Germany,Germersheim,Army,Army Active,187.03356327406078,1207.577773,49.2239,8.366,nearest_city
+Grafenwoehr East Camp,Germania,Germany,Grafenwohr,Army,Army Active,0.0,4989.635372,49.7167,11.9,nearest_city
+Grafenwoehr Leases,Germania,Germany,Grafenwohr,Army,Army Active,2737.123716141619,2077.618732,49.7167,11.9,nearest_city
+Grafenwoehr Tng Area,Germania,Germany,Grafenwohr,Army,Army Active,25030.644671823437,1242.299262,49.7167,11.9,nearest_city
+Gruenstadt AAFES Fac,Germania,Germany,Gruenstadt,Army,Army Active,7.365278688767999,145.845748,49.5683,8.1661,nearest_city
+Hohenfels Leases,Germania,Germany,Hohenfels,Army,Army Active,0.0,469.614443,49.2036,11.8485,nearest_city
+Hohenfels Tng Area,Germania,Germany,Hohenfels,Army,Army Active,16234.247818407166,3229.460368,49.2036,11.8485,nearest_city
+Hoppstaedten Waterworks,Germania,Germany,Baumholder,Army,Army Active,6.67731309696,37.2915,49.6174,7.3384,nearest_city
+HUSTERHOEH COMMUNICATION SITE SITE 1,Germania,Germany,Pirmasens,Air Force,Air Force Active,74.8668438144,14.42141542,49.2016,7.6053,nearest_city
+Husterhoeh Kaserne,Germania,Germany,Pirmasens,Army,Army Active,53.944596110592,0.0,49.2016,7.6053,nearest_city
+HUSTERHOEH WAREHOUSE COMPLEX,Germania,Germany,Pirmasens,Air Force,Air Force Active,11.6266185015552,181.56027294999998,49.2016,7.6053,nearest_city
+Illesheim Storck Barracks,Germania,Germany,Illesheim,Army,Army Active,274.17452261759996,1200.144742,49.4739,10.388,nearest_city
+Kaiserslautern Army Depot,Germania,Germany,Kaiserlautern,Army,Army Active,319.3212528658944,966.594836,49.4447,7.7689,nearest_city
+Kaiserslautern Army Vogelweh,Germania,Germany,Kaiserlautern,Army,Army Active,6.2645337418752,17.55141,49.4447,7.7689,nearest_city
+Kaiserslautern Daenner Kaserne,Germania,Germany,Kaiserlautern,Army,Army Active,11.169323725824,261.634628,49.4447,7.7689,nearest_city
+Kaiserslautern Equip Spt Ctr,Germania,Germany,Kaiserlautern,Army,Army Active,0.0,119.576518,49.4447,7.7689,nearest_city
+Kaiserslautern Kleber Kaserne,Germania,Germany,Kaiserlautern,Army,Army Active,36.219364980479995,689.200787,49.4447,7.7689,nearest_city
+Kaiserslautern Panzer Kaserne,Germania,Germany,Kaiserlautern,Army,Army Active,27.963777878783997,176.305363,49.4447,7.7689,nearest_city
+Kaiserslautern Pulaski Barracks,Germania,Germany,Kaiserlautern,Army,Army Active,52.771007748096,206.386666,49.4447,7.7689,nearest_city
+Kaiserslautern Rhine Ordnance Barracks,Germania,Germany,Kaiserlautern,Army,Army Active,1404.9754721595648,1973.821532,49.4447,7.7689,nearest_city
+KAISERSLAUTERN WAREHOUSE STORAGE,Germania,Germany,Ramstein,Air Force,Air Force Active,0.0,40.981004920000004,49.4444,7.5996,nearest_city
+KAPAUN ADMINISTRATION ANX SITE 1,Germania,Germany,Kaiserlautern,Air Force,Air Force Active,36.992314557158394,369.50237157,49.4447,7.7689,nearest_city
+Kornwestheim Golf Course,Germania,Germany,Kornwestheim,Army,Army Active,127.25340020236798,21.294369,48.8616,9.1856,nearest_city
+Landstuhl Breitenwald Tng Area,Germania,Germany,Landstuhl,Army,Army Active,106.71965071511039,8.835005,49.4122,7.5711,nearest_city
+LANDSTUHL FAMILY HOUSING ANNEX O3 SITE 1,Germania,Germany,Landstuhl,Air Force,Air Force Active,17.603825437439998,192.59425538,49.4122,7.5711,nearest_city
+Landstuhl Heliport,Germania,Germany,Landstuhl,Army,Army Active,0.364217078016,123.381456,49.4122,7.5711,nearest_city
+Landstuhl Hospital,Germania,Germany,Landstuhl,Army,Army Active,106.35948049351678,1154.202407,49.4122,7.5711,nearest_city
+LANDSTUHL MAINTENANCE SITE NO 2 SITE 1,Germania,Germany,Landstuhl,Air Force,Air Force Active,2.83279949568,37.691450859999996,49.4122,7.5711,nearest_city
+LANDSTUHL MAINTENANCE SITE SITE 1,Germania,Germany,Landstuhl,Air Force,Air Force Active,9.30776977152,113.8292469,49.4122,7.5711,nearest_city
+Mainz Sand Dunes Trg Area,Germania,Germany,Mainz,Army,Army Active,50.140551073536,1.829907,49.9929,8.2473,nearest_city
+Mannheim Coleman Barracks,Germania,Germany,Mannheim,Army,Army Active,11747.40097833815,1340.373162,49.4875,8.466,nearest_city
+Mannheim Leases,Germania,Germany,Mannheim,Army,Army Active,425.02109576256,3.704279,49.4875,8.466,nearest_city
+Miesau Ammo Depot,Germania,Germany,Miesau,Army,Army Active,657.1487801514239,1729.520634,49.4319,7.4262,nearest_city
+Miesau Leases,Germania,Germany,Miesau,Army,Army Active,352.88588003328,22.0887,49.4319,7.4262,nearest_city
+Moehringen Kelley Barracks,Germania,Germany,Stuttgart,Army,Army Active,28.987632553651196,483.907071,48.7758,9.1829,nearest_city
+Moehringen Kelley Fam Hsg,Germania,Germany,Stuttgart,Army,Army Active,11.128855161599999,129.344589,48.7758,9.1829,nearest_city
+NIEDERKAIL WATER SYSTEM ANNEX SITE 1,Germania,Germany,Trier,Air Force,Air Force Active,8.093712844799999,0.81715378,49.7499,6.6371,nearest_city
+Oberammergau NATO School,Germania,Germany,Garmisch,Army,Army Active,0.0,19.021691,47.4917,11.0955,nearest_city
+Pfeffelbach Waterworks,Germania,Germany,Pfeffelbach,Army,Army Active,104.125615748352,0.0,49.5372,7.3644,nearest_city
+RAMSTEIN AIR BASE SITE 1,Germania,Germany,Ramstein,Air Force,Air Force Active,1252.5020627328,6834.41104463,49.4444,7.5996,nearest_city
+RAMSTEIN STORAGE ANNEX SITE 1,Germania,Germany,Weilerbach,Air Force,Air Force Active,34.3982795904,189.39762353999998,49.4781,7.6313,nearest_city
+Sembach Kaserne,Germania,Germany,Sembach,Army,Army Active,115.61868798796799,931.039698,49.5114,7.8664,nearest_city
+SPANGDAHLEM SITE 1,Germania,Germany,Spangdahlem,Air Force,Air Force Active,661.25633942016,3777.85452386,49.9856,6.6925,nearest_city
+SPANGDAHLEM WASTE ANNEX SITE 1,Germania,Germany,Spangdahlem,Air Force,Air Force Active,1.2140569267199999,52.9852531,49.9856,6.6925,nearest_city
+Stuttgart Admin Facility,Germania,Germany,Stuttgart,Army,Army Active,0.28327994956799996,11.681157,48.7758,9.1829,nearest_city
+Stuttgart Robinson & Grenadier Fam Hsg,Germania,Germany,Stuttgart,Army,Army Active,50.42383102310399,427.645209,48.7758,9.1829,nearest_city
+Stuttgart Robinson Barracks,Germania,Germany,Stuttgart,Army,Army Active,13.314157629695998,32.749801,48.7758,9.1829,nearest_city
+Stuttgart Robinson Dep School,Germania,Germany,Stuttgart,Army,Army Active,0.0,75.6316,48.7758,9.1829,nearest_city
+Viahingen Patch Barracks,Germania,Germany,Stuttgart,Army,Army Active,78.589951723008,896.964755,48.7758,9.1829,nearest_city
+Viahingen Patch Kefurt & Craig Fam Hsg,Germania,Germany,Stuttgart,Army,Army Active,0.728434156032,326.556604,48.7758,9.1829,nearest_city
+Viahingen Patch Steuben & Weicht Fam Hsg,Germania,Germany,Stuttgart,Army,Army Active,0.0,180.171978,48.7758,9.1829,nearest_city
+Vilseck Leases,Germania,Germany,Vilseck,Army,Army Active,862.5307904446462,216.664545,49.6138,11.8026,nearest_city
+Vilseck South Camp,Germania,Germany,Vilseck,Army,Army Active,2.347176724992,3621.865884,49.6138,11.8026,nearest_city
+VOGELWEH FAMILY HOUSING ANNEX SITE 1,Germania,Germany,Kaiserlautern,Air Force,Air Force Active,255.35664025344,1538.05020122,49.4447,7.7689,nearest_city
+Wackernheim McCully Support Center,Germania,Germany,Wackernheim,Army,Army Active,111.69323725823999,357.703142,49.9745,8.1168,nearest_city
+Wackernheim Regional Range Complex,Germania,Germany,Wackernheim,Army,Army Active,10.0523913532416,16.218462,49.9745,8.1168,nearest_city
+Weilimdorf Warehouse,Germania,Germany,Stuttgart,Army,Army Active,1.5782740047359998,24.95868,48.7758,9.1829,nearest_city
+Wiesbaden Aukamm Hsg Area,Germania,Germany,Wiesbaden,Army,Army Active,68.5699352211456,530.206131,50.0782,8.2398,nearest_city
+Wiesbaden Crestview Hsg Area,Germania,Germany,Wiesbaden,Army,Army Active,12.100100702975999,448.233164,50.0782,8.2398,nearest_city
+Wiesbaden Hainerberg Hsg & Shopping Ctr,Germania,Germany,Wiesbaden,Army,Army Active,60.7675960387584,912.685951,50.0782,8.2398,nearest_city
+Wiesbaden Kastel Support Annex,Germania,Germany,Wiesbaden,Army,Army Active,7.28434156032,43.91482,50.0782,8.2398,nearest_city
+Wiesbaden Lucius D. Clay Kaserne,Germania,Germany,Wiesbaden,Army,Army Active,283.24352786019836,2771.959253,50.0782,8.2398,nearest_city
+Wiesbaden Mainz-Kastel Station,Germania,Germany,Wiesbaden,Army,Army Active,23.552704378368,436.337231,50.0782,8.2398,nearest_city
+Wiesbden Rheinblick Golf Course,Germania,Germany,Wiesbaden,Army,Army Active,0.080937128448,48.374609,50.0782,8.2398,nearest_city
+LARISSA GREECE,Grecia,Greece,Larisa,Air Force,Air Force Active,0.40468564224,24.28487096,39.639,22.4191,nearest_city
+MARATHI PIER AREA,Grecia,Greece,Ormos Soudas,Navy,Navy Active,0.0,255.482678,35.487,24.073,nearest_city
+MOMAG COMPOUND,Grecia,Greece,Ormos Soudas,Navy,Navy Active,0.0,12.018544,35.487,24.073,nearest_city
+NATO ORDNANCE AREA,Grecia,Greece,Ormos Soudas,Navy,Navy Active,0.0,278.435727,35.487,24.073,nearest_city
+NAVSUPPACT SOUDA BAY GR,Grecia,Greece,Ormos Soudas,Navy,Navy Active,40.913718430463994,781.824215,35.487,24.073,nearest_city
+PITUFFIK SPACE BASE,Groenlandia,Greenland,Thule,Other,US Space Force Active,94305.51395375615,14911.22241536,76.5312,-68.7032,nearest_city
+"GRINDAVIK, ICELAND",Islanda,Iceland,Grindavik,Navy,Navy Active,424.51523870975996,42.4006,63.8424,-22.4338,nearest_city
+KEFLAVIK,Islanda,Iceland,Keflavik,Navy,Navy Active,0.0,283.765134,64.0049,-22.5624,nearest_city
+AUGUSTA BAY,Italia,Italy,Catania,Navy,Navy Active,0.0,57.242914,37.5079,15.083,nearest_city
+AVIANO ADMINISTRATION ANNEX GROUP HQ SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,2.0234282111999997,51.25360914,46.0706,12.5947,nearest_city
+AVIANO AIR BASE SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,500.7539668513536,3313.95107463,46.0706,12.5947,nearest_city
+AVIANO AMMUNITION STORAGE ANNEX SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,14.163997478399999,180.61038872,46.0706,12.5947,nearest_city
+AVIANO BACHELOR HOUSING ANNEX NO 2 SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,5.26091334912,19.06134959,46.0706,12.5947,nearest_city
+AVIANO FAMILY HOUSING ANNEX NO 5 SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,0.0,17.77744504,46.0706,12.5947,nearest_city
+AVIANO HOSPITAL SCHOOL ANNEX,Italia,Italy,Aviano,Air Force,Air Force Active,16.592111331839998,516.19073625,46.0706,12.5947,nearest_city
+AVIANO MAINTENANCE ANNEX SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,2.83279949568,88.75767954000001,46.0706,12.5947,nearest_city
+AVIANO RECREATIONAL AREA,Italia,Italy,Aviano,Air Force,Air Force Active,2.83279949568,10.26493331,46.0706,12.5947,nearest_city
+AVIANO STORAGE ANNEX SITE 1,Italia,Italy,Aviano,Air Force,Air Force Active,2.4281138534399997,64.06626183,46.0706,12.5947,nearest_city
+BELPASSO HSG,Italia,Italy,Catania,Navy,Navy Active,41.998275951667196,354.850208,37.5079,15.083,nearest_city
+CARNEY PARK,Italia,Italy,Naples,Navy,Navy Active,43.2366140169216,89.377091,40.8518,14.2681,nearest_city
+Del Din,Italia,Italy,Vicenza,Army,Army Active,0.0,1464.195196,45.5455,11.5354,nearest_city
+GAETA,Italia,Italy,Gaeta,Navy,Navy Active,0.0,31.582426,41.2142,13.5708,nearest_city
+GHEDI RADIO RELAY SITE SITE 1,Italia,Italy,Brescia,Air Force,Air Force Active,8.49839848704,83.39453859999999,45.5416,10.2118,nearest_city
+LA COMINA STORAGE SITE SITE 1,Italia,Italy,Unknown,Air Force,Air Force Active,2.83279949568,15.19622756,45.9767,12.6342,site_override
+LAGO PATRIA,Italia,Italy,Naples,Navy,Navy Active,1.7401482616319999,22.895883,40.8518,14.2681,nearest_city
+Livorno Camp Darby,Italia,Italy,Livorno,Army,Army Active,1010.1763001594878,300.657945,43.5485,10.3106,nearest_city
+Livorno Leases,Italia,Italy,Livorno,Army,Army Active,0.0,42.220391,43.5485,10.3106,nearest_city
+Livorno Pisa Ammo Storage Area,Italia,Italy,Livorno,Army,Army Active,0.0,616.100383,43.5485,10.3106,nearest_city
+Livorno Supply And Maint Area,Italia,Italy,Livorno,Army,Army Active,0.0,792.222263,43.5485,10.3106,nearest_city
+NAS SIGONELLA IT,Italia,Italy,Sigonella,Navy,Navy Active,127.84019438361598,2286.023938,37.4016,14.9228,nearest_city
+NAS1 SUPPORT AREA,Italia,Italy,Catania,Navy,Navy Active,4.2370586742528,920.634627,37.5079,15.083,nearest_city
+NATO ORDNANCE FAC,Italia,Italy,Sigonella,Navy,Navy Active,69.60593046528,887.945957,37.4016,14.9228,nearest_city
+NAVSUPPACT NAPLES IT,Italia,Italy,Naples,Navy,Navy Active,23.350361557248,2095.868016,40.8518,14.2681,nearest_city
+OLD MILL INN GAETA,Italia,Italy,Gaeta,Navy,Navy Active,2.5786569123532797,12.47502,41.2142,13.5708,nearest_city
+SAN VITO DEI NORMANNI AIR STATION SITE 1,Italia,Italy,San Vito Normanni,Air Force,Air Force Active,10.117141056,8.65290641,40.656,17.7089,nearest_city
+SUPPORT SITE,Italia,Italy,Naples,Navy,Navy Active,92.26832643072,1633.988411,40.8518,14.2681,nearest_city
+TRANSMITTER SITE,Italia,Italy,Sigonella,Navy,Navy Active,0.0,297.470543,37.4016,14.9228,nearest_city
+Vicenza Basic Load Stor Area,Italia,Italy,Vicenza,Army,Army Active,14.002123221504,36.019676,45.5455,11.5354,nearest_city
+Vicenza Camp Ederle,Italia,Italy,Vicenza,Army,Army Active,103.316244463872,1514.336514,45.5455,11.5354,nearest_city
+Vicenza Fam Hsg,Italia,Italy,Vicenza,Army,Army Active,0.0,992.512151,45.5455,11.5354,nearest_city
+Vicenza Leases,Italia,Italy,Vicenza,Army,Army Active,54.0740955161088,571.531945,45.5455,11.5354,nearest_city
+Vicenza Longare Comm Site,Italia,Italy,Vicenza,Army,Army Active,0.0,85.130732,45.5455,11.5354,nearest_city
+SIAULIAI AIR BASE,Lituania,Lithuania,Unknown,Air Force,Air Force Active,0.0,96.50575982,55.8939,23.395,nearest_city
+Brunssum JFC,Paesi Bassi,Netherlands,Brunssum,Army,Army Active,0.0,121.910534,50.9468,5.9707,nearest_city
+Brunssum Leases,Paesi Bassi,Netherlands,Brunssum,Army,Army Active,0.0040468564224,32.445046,50.9468,5.9707,nearest_city
+Brunssum Support Site,Paesi Bassi,Netherlands,Brunssum,Army,Army Active,2.1448339038719997,347.373342,50.9468,5.9707,nearest_city
+Eygelshoven Army Depot,Paesi Bassi,Netherlands,Eygelshoven,Army,Army Active,22.66239596544,231.630879,50.8942,6.0618,nearest_city
+VOLKEL AIR BASE SITE 1,Paesi Bassi,Netherlands,Volkel,Air Force,Air Force Active,0.0,30.84399867,51.6425,5.6542,nearest_city
+STAVANGER ADMIN OFFICE SITE 1,Norvegia,Norway,Stavanger,Air Force,Air Force Active,0.0,23.98825449,58.969,5.7331,nearest_city
+(SW) - Swietoszow TA,Polonia,Poland,Unknown,Army,Army Active,0.0,44.018164,51.469,15.383,site_override
+Boleslawiec,Polonia,Poland,Unknown,Army,Army Active,0.0,67.590423,51.2642,15.5697,site_override
+Camp Karliki Training Area (TA),Polonia,Poland,Unknown,Army,Army Active,0.0,47.197552,51.43,15.48,site_override
+DCTC - Drawsko Combat Training Center,Polonia,Poland,Unknown,Army,Army Active,0.0,208.41024,53.53,15.81,site_override
+LASK AIR BASE,Polonia,Poland,Unknown,Air Force,Air Force Active,0.0,66.15205318,51.5517,19.1794,site_override
+NAVSUPPFAC POLAND,Polonia,Poland,Unknown,Navy,Navy Active,135.4725655962624,314.609271,54.5333,18.55,site_override
+Powidz Army Airfield,Polonia,Poland,Unknown,Army,Army Active,0.0,338.040832,52.3794,17.8539,site_override
+Poznan Military Complex (Camp K),Polonia,Poland,Poznan,Army,Army Active,0.0,304.169373,52.4064,16.9252,nearest_city
+CALDEIRA AMMUNITION STORAGE AREA SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,9.9876416504832,11.46451893,38.7611,-27.094,nearest_city
+CINCO PICOS GLOBECOM ANNEX SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,64.4826102345216,9.05561444,38.7611,-27.094,nearest_city
+LAJES FIELD SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,392.82835292236797,2110.09878302,38.7611,-27.094,nearest_city
+LAJES WATER SYSTEM ANNEX SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,0.12545254909439998,17.638131780000002,38.7611,-27.094,nearest_city
+PRAIA DA VICTORIA DOCK ANNEX SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,1.61874256896,69.33827885,38.7611,-27.094,nearest_city
+PRAIA DA VICTORIA FUEL STORAGE ANNEX SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,21.44833903872,205.22749645,38.7611,-27.094,nearest_city
+VILLA NOVA GLOBECOM ANNEX SITE 1,Portogallo,Portugal,Lajes,Air Force,Air Force Active,39.902004324863995,4.83983863,38.7611,-27.094,nearest_city
+Mihail Kogalniceanu Airfield,Romania,Romania,Mihail Kogalniceanu,Army,Army Active,0.0,110.525866,44.3635,28.4883,nearest_city
+Mihail Kogalniceanu Main Camp,Romania,Romania,Mihail Kogalniceanu,Army,Army Active,0.0,271.586439,44.3635,28.4883,nearest_city
+TURZII LRCT,Romania,Romania,Unknown,Air Force,Air Force Active,0.40468564224,43.36163447,46.502,23.885,site_override
+UNITATEA MILITARA NR 01871,Romania,Romania,Unknown,Navy,Navy Active,177.04996848,182.434882,44.063,24.379,site_override
+MORON AB SITE 1,Spagna,Spain,Moron De La Frontera,Air Force,Air Force Active,1389.28580980992,1594.1355022100001,37.1208,-5.454,nearest_city
+NAVSTA ROTA SP,Spagna,Spain,Rota,Navy,Navy Active,2412.739845891302,6476.732064,36.6167,-6.35,nearest_city
+ANKARA ADMINISTRATION OFFICE SITE 1,Turchia,Turkey,Ankara,Air Force,Air Force Active,5.66559899136,63.244277520000004,39.9334,32.8597,nearest_city
+BATMAN AIR BASE SITE 1,Turchia,Turkey,Batman,Air Force,Air Force Active,0.0,45.4301339,37.8812,41.1351,nearest_city
+CIGLI AIR BASE SITE 1,Turchia,Turkey,Izmir,Air Force,Air Force Active,0.0,61.93897796,38.4237,27.1428,nearest_city
+INCIRLIK AB SITE 1,Turchia,Turkey,Adana,Air Force,Air Force Active,1356.50627278848,4837.22012555,37.0,35.3213,nearest_city
+ISTANBUL LEASE SITE,Turchia,Turkey,Istanbul,Air Force,Air Force Active,0.0,15.897110099999999,41.0082,28.9784,nearest_city
+IZMIR AIR STATION SITE 1,Turchia,Turkey,Izmir,Air Force,Air Force Active,0.0,17.12738474,38.4237,27.1428,nearest_city
+Kurecik - Site K,Turchia,Turkey,Malatya,Army,Army Active,0.0,26.678738,38.3552,38.3095,nearest_city
+MUS AIR BASE SITE 1,Turchia,Turkey,Batman,Air Force,Air Force Active,0.0,36.40346965,37.8812,41.1351,nearest_city
+BLENHEIM CRESCENT,Regno Unito,United Kingdom,Croughton,Air Force,Air Force Active,1.294994055168,37.69977079,51.997,-1.203,nearest_city
+FYLINGDALES COMMUNICATIONS STATION SITE 1,Regno Unito,United Kingdom,York,Air Force,Air Force Active,0.48562277068799997,13.15086072,53.959,-1.0815,nearest_city
+"LOSSIEMOUTH, SCOTLAND",Regno Unito,United Kingdom,Lossie Mouth,Navy,Navy Active,0.0,87.277184,57.7219,-3.286,nearest_city
+RAF ALCONBURY SITE 1,Regno Unito,United Kingdom,Cambridge,Air Force,Air Force Active,88.22147000832,830.76322544,52.2053,0.1218,nearest_city
+RAF BARFORD ST JOHN TRANSMITTER ANNEX SITE 1,Regno Unito,United Kingdom,Croughton,Air Force,Air Force Active,192.4575649370035,30.31817737,51.997,-1.203,nearest_city
+RAF BICESTER SITE 1,Regno Unito,United Kingdom,Bicester Afb,Air Force,Air Force Active,14.163997478399999,147.03470874,51.8985,-1.151,nearest_city
+RAF CROUGHTON SITE 1,Regno Unito,United Kingdom,Croughton,Air Force,Air Force Active,299.61427614573313,892.2862967000001,51.997,-1.203,nearest_city
+RAF FAIRFORD SITE 1,Regno Unito,United Kingdom,Fairford,Air Force,Air Force Active,514.2542798764799,1487.9031971,51.7075,-1.783,nearest_city
+RAF FELTWELL SITE 1,Regno Unito,United Kingdom,Feltwell,Air Force,Air Force Active,123.4291208832,814.12603432,52.4823,0.5192,nearest_city
+RAF LAKENHEATH SITE 1,Regno Unito,United Kingdom,Lakenheath,Air Force,Air Force Active,761.294630181888,5763.29795541,52.4167,0.561,nearest_city
+RAF MENWITH HILL SITE 1,Regno Unito,United Kingdom,Harrogate,Air Force,Air Force Active,220.5536750208,849.62288132,53.9921,-1.5418,nearest_city
+RAF MILDENHALL SITE 1,Regno Unito,United Kingdom,Bury St Edmunds,Air Force,Air Force Active,470.5522773709824,3042.5676884299996,52.2464,0.711,nearest_city
+RAF MOLESWORTH SITE 1,Regno Unito,United Kingdom,Cambridge,Air Force,Air Force Active,266.68783823615996,532.57109712,52.2053,0.1218,nearest_city
+RAF MOLESWORTH STORAGE ANX NO 12 SITE 1,Regno Unito,United Kingdom,Cambridge,Air Force,Air Force Active,14.97336876288,46.55719131,52.2053,0.1218,nearest_city
+RAF OAKHANGER SITE 1,Regno Unito,United Kingdom,Unknown,Air Force,Air Force Active,0.0,65.08485633,51.11,-0.89,site_override
+RAF WELFORD AMMO STOR AREA SITE 1,Regno Unito,United Kingdom,Welford,Air Force,Air Force Active,297.9336166735104,935.0710062,51.46,-1.407,nearest_city
